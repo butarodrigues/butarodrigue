@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Buta Rodrigues</h1>
 
 - 💼 QA Tester | Cybersecurity Analyst | Dev & SysAdmin
-- 🚀 Criador da Bath Tech
+  
 - 📚 Eng. de Software | Mestrando | Apaixonado por ensino e tecnologia
 
 ---
